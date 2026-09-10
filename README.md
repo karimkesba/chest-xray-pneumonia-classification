@@ -69,5 +69,3 @@ Final confusion matrix:
 **Karim Mohamed Kesba**
 
 AI / Machine Learning Engineer
-
-GitHub: [github.com/karimkesba](https://github.com/karimkesba)
